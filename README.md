@@ -1,6 +1,6 @@
 # Hi there, I'm Javier! 👋
 
-### 👨‍💻 Junior Software Engineer | 🎓 Computer Science Student
+### 👨‍💻 Junior Software Engineer | 🎓 Software Engineering Student
 
 I am a university student passionate about building scalable systems and efficient software. This profile acts as my portfolio where I document my journey, university projects, and personal experiments.
 
