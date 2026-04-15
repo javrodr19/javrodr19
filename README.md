@@ -1,33 +1,79 @@
-# Hi there, I'm monaRRch! 👋
+# 👋 Hi there!
 
-### 👨‍💻 Junior Software Engineer | 🎓 Software Engineering Student
+I’m a **Software Engineering student** with a strong passion for **algorithms, optimization, and data-driven problem solving**. I enjoy transforming data into actionable insights and building efficient, well-designed solutions grounded in solid algorithmic thinking.
 
-I am a university student passionate about building scalable systems and efficient software. This profile acts as my portfolio where I document my journey, university projects, and personal experiments.
-
----
-
-### 🛠️ Languages & Tools
-
-**Core Languages**
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Systems & Infrastructure**
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I’m particularly interested in **data engineering, data analysis, and data-centric systems**, and I’m continuously expanding my skills toward roles in data-related fields.
 
 ---
 
-### 🔭 Current Status
-- **Learning:** Deepening my understanding of Distributed Systems with Kafka and Rust.
-- **Working on:** Various university assignments and side projects to improve my code quality.
-- **Looking for:** Internships and Junior opportunities to apply my backend and systems knowledge.
+## 🔍 About Me
+
+- 💡 Passionate about designing **efficient algorithms** and finding **optimal solutions through data**
+- 📊 Strong foundation in **data structures, algorithms, and optimization**
+- 🧠 Analytical mindset with a focus on **problem solving and system efficiency**
+- 🎯 Aspiring **Data Engineer / Data-focused Software Engineer**
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-rodriguez-gil-948146382/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodiljv1984@gmail.com)
+## 🛠️ Tech Stack & Tools
+
+**Languages**
+- Python, Java, Kotlin
+- JavaScript, TypeScript
+- HTML, CSS
+- Pascal, Delphi
+- R
+
+**Data & Analysis**
+- Data Analysis & Exploration
+- Algorithm Design & Optimization
+- Data Structures
+- Excel, Google Sheets
+
+**Concepts**
+- Algorithms & Complexity
+- Optimization Techniques
+- Data-Driven Decision Making
+
+---
+
+## 📚 Currently Exploring
+
+- Scalable data systems and pipelines
+- Advanced data processing and analysis techniques
+- Real-world applications of algorithms in data engineering
+- Writing cleaner, more maintainable, and efficient code
+
+---
+
+## 🚀 Goals
+
+- Build robust projects centered around **data engineering and analytics**
+- Gain hands-on experience with **large-scale data workflows**
+- Contribute to **open-source projects** related to data and backend systems
+- Continuously improve as a **software engineer with a strong data focus**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+
+---
+
+## 🏆 Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
+---
+
+## 📫 Let’s Connect
+
+I’m always open to collaboration, learning, and interesting technical discussions around **data, algorithms, and software engineering**.
